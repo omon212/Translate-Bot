@@ -6,7 +6,7 @@ from oxfordLookUp import get_definitions
 
 translator = Translator()
 
-API_TOKEN = '5867232601:AAGsCT4uss-eNPXMZ-EkvFsZNy3svMROJn8'
+API_TOKEN = ''
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
